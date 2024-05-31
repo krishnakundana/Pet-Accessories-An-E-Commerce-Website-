@@ -5,4 +5,4 @@ The website involves a page showcasing about the store, provided items/accessori
 
 
 # Note:
-Download all the files and place 'index.html' and 'styles.css' in 'Images' folder to negate any path inconsistencies. Finally run the HTML file asusual 
+Download all the files and place 'index.html' and 'styles.css' in 'Images' folder to negate any path inconsistencies. Finally run the HTML file asusual.
